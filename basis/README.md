@@ -32,7 +32,7 @@ ktx2Loader.load( 'diffuse.ktx2', function ( texture ) {
 
 }, function () {
 
-	console.log( 'onProgress' );
+	// 'onProgress' );
 
 }, function ( e ) {
 
